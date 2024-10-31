@@ -26,5 +26,10 @@ for (int x = 0; x < edificio2.Length; x++) {
     }
 }
 
+
 Console.WriteLine("Correccion 1");
+Console.WriteLine("Ajuste especial");
 Console.WriteLine("Conrrecion 2");
+
+
+
